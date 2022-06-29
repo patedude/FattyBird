@@ -1,6 +1,9 @@
 # Fatty Bird
 
-Fatty Bird on tehty osana AMK insinööriopintoja vuonna 2019. Peli on Unityllä toteututtu 2D-mobiilipeli. Peli on tehty parityöskentelynä. Katso demo klikkaamalla alla olevaa kuvaa
+Fatty Bird on tehty osana AMK insinööriopintoja vuonna 2019. Peli on Unityllä toteututtu 2D-mobiilipeli. Peli on tehty parityöskentelynä. Pelin tavoite on ohittaa mahdollisimman monta puuta ja pilveä osumatta niihin. Peli on endless-runner-tyylinen, eli maksimimäärää pisteille ei ole.
+
+
+Katso demo klikkaamalla alla olevaa kuvaa
 
 [![Alt text](https://img.youtube.com/vi/8iw-LLdN9E4/0.jpg)](https://www.youtube.com/watch?v=8iw-LLdN9E4)
 
